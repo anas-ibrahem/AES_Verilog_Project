@@ -27,8 +27,8 @@ The AES algorithm is widely used for securing data and is known for its efficien
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/AhmedSobhy01/AES-Verilog.git
-    cd AES-Verilog
+    git clone https://github.com/anas-ibrahem/AES_Verilog_Project.git
+    cd AES_Verilog_Project
     ```
 
 2. **Open Quartus Prime**
